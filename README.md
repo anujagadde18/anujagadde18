@@ -8,13 +8,13 @@
 
 ## 🌟 Who I Am
 
-Data professional turned AI builder. I specialize in building data-driven products that scale — from predictive models and analytics pipelines to full-stack AI applications. 5+ years across automotive, healthcare, and consumer tech.
+Data professional turned AI builder. I specialize in building data-driven products that scale, from predictive models and analytics pipelines to full-stack AI applications. 5+ years across automotive, healthcare, and consumer tech.
 
-Currently building **PlayPicks AI** — an AI-powered prediction tool that finds edges in [Polymarket](https://polymarket.com) using real-time news, social signals, and market data.
+Currently building **PlayPicks AI**, an AI-powered prediction tool that finds edges in [Polymarket](https://polymarket.com) using real-time news, social signals, and market data.
 
 - 🧠 **Strengths:** Causal Inference, A/B Testing, GenAI Applications, Growth Analytics, Prediction Markets
 - 🧑‍💻 **Day Job:** Senior Data Analyst @ Natural Fiber Welding
-- 🔮 **Side Build:** PlayPicks AI — 80% prediction accuracy, 100+ users live
+- 🔮 **Side Build:** PlayPicks AI 80% prediction accuracy, 100+ users live
 - 🎂 **Fun Fact:** I work for coffee and coffee works for me ☕
 ---
 
