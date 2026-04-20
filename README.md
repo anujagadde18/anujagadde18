@@ -15,8 +15,7 @@ Currently building **PlayPicks AI** — an AI-powered prediction tool that finds
 - 🧠 **Strengths:** Causal Inference, A/B Testing, GenAI Applications, Growth Analytics, Prediction Markets
 - 🧑‍💻 **Day Job:** Senior Data Analyst @ Natural Fiber Welding
 - 🔮 **Side Build:** PlayPicks AI — 80% prediction accuracy, 100+ users live
-- 🎂 **Fun Fact:** I build dashboards for work and bake cakes for fun
-
+- 🎂 **Fun Fact:** I work for coffee and coffee works for me ☕
 ---
 
 ## 🔮 Featured Build — PlayPicks AI
