@@ -7,10 +7,10 @@ I build things at the intersection of product, data, and AI. Currently deep in p
 
 ## What I'm building
 
-**Call It** — prediction markets translated into plain English. The AI never picks the number. Real data always comes first.
+**Call It** - prediction markets translated into plain English. The AI never picks the number. Real data always comes first.
 → tradedna.vercel.app
 
-**RAG projects** — building one AI project per month and putting everything on GitHub.
+**RAG projects** - building one AI project per month and putting everything on GitHub.
 → github.com/anujagadde18/rag-projects
 
 
