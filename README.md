@@ -1,91 +1,31 @@
 # Hi, I'm Anuja Gadde 👋
 
-🚀 **Senior Data Analyst | ML Engineer | AI Builder**
-🎓 MS in Engineering Management & Business Analytics | University of Houston
-🌎 Based in Frisco, Texas
+Head of Product by day. AI Builder by night.
 
----
+I build things at the intersection of product, data, and AI.
 
-## 🌟 Who I Am
+## What I'm Building
 
-Data professional turned AI builder. I specialize in building data-driven products that scale, from predictive models and analytics pipelines to full-stack AI applications. 5+ years across automotive, healthcare, and consumer tech.
+**Call It** — A prediction market tool that translates crowd intelligence into plain English. The AI never picks the number. Real data always comes first.
+🔗 tradedna.vercel.app
 
-Currently building **PlayPicks AI**, an AI-powered prediction tool that finds edges in [Polymarket](https://polymarket.com) using real-time news, social signals, and market data.
+## What I'm Learning
 
-- 🧠 **Strengths:** Causal Inference, A/B Testing, GenAI Applications, Growth Analytics, Prediction Markets
-- 🧑‍💻 **Day Job:** Head of Product @ Refund Hawk
-- 🔮 **Side Build:** PlayPicks AI — 80% prediction accuracy, 100+ users live
-- 🎂 **Fun Fact:** I work for coffee and coffee works for me ☕
+Currently going deep on RAG architecture, agentic AI patterns, MCP, and ML systems design. Building one project per month and writing about everything.
 
----
+## Recent Projects
 
-## 🔮 Featured Build — PlayPicks AI
+| Project | What it does |
+|---------|-------------|
+| Call It RAG Agent | Conversational agent over prediction data using Pinecone and Groq |
+| Call It | Prediction markets in plain English with honest AI |
 
-> **AI odds for any prediction market**
+## Writing
 
-Built a full-stack AI prediction tool that analyzes Polymarket markets using real-time signals:
+I publish weekly on Medium about AI, building in public, and whatever is actually on my mind.
+📝 medium.com/@anujagadde18
 
-- 📰 News sentiment (NewsAPI, GDELT)
-- 📊 Social signals (HackerNews, Reddit)
-- 🎯 Market data (Polymarket API)
-- 🏏 Domain-specific models (IPL cricket with venue + home advantage)
+## Connect
 
-**Stats:** 80% accuracy · 100+ users · $0 spent on ads
-
-**Stack:** Next.js 16 · Neon Postgres · Vercel · Claude AI · Polymarket CLOB API · Magic Link Auth
-
-🌐 **Live:** [tradedna.vercel.app](https://tradedna.vercel.app)
-📊 **Accuracy tracker:** [tradedna.vercel.app/accuracy](https://tradedna.vercel.app/accuracy)
-🐦 **X:** [@PlayPicksAI](https://twitter.com/PlayPicksAI)
-
----
-
-## 🧰 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📂 Projects
-
-| 🚀 Project | 📍 Highlights |
-|-----------|--------------|
-| [🔮 PlayPicks AI](https://tradedna.vercel.app) | AI prediction tool for Polymarket — 80% accuracy, 100+ users. Next.js, Neon, Claude AI |
-| [GenAI Multimodal Assistant](https://github.com/anujagadde18/GeminiAI-Multimodel-Application) | Chef assistant using Gemini + GCP + NLP for smart meal plans |
-| [Customer Retention Risk Analysis](https://github.com/anujagadde18/Customer_Retention_Risk_Analysis) | ML pipelines & dashboards to identify high-risk customers |
-| [Uber Q2Q3 Campaign Analytics](https://github.com/anujagadde18/Q2Q3_Campaign_Analysis) | Improved trip conversion 2.3% using funnel analytics & A/B testing |
-| [Paywall A/B Testing](https://github.com/anujagadde18/paywall-ab-testing) | Optimal pricing strategies for digital content via experimentation |
-| [Healthcare HCAHPS Analysis](https://github.com/anujagadde18/Healthcare-HCAHPS-Survey-Analysis) | Regional care quality trends from survey feedback modeling |
-
----
-
-## 📈 Certifications & Recognitions
-
-- 🔮 **Founder** — PlayPicks AI | [tradedna.vercel.app](https://tradedna.vercel.app)
-- 🎖️ **Top 10 Finalist** — Google GenAI Startup School 2024
-- 🧠 **Google DeepMind Certified** — Neural Networks, NLP, Small Language Models (2025-26)
-- 📜 Certified Data Management Professional (CDMP)
-- 📊 Google Certified Data Analyst | Six Sigma Green Belt
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anuja-gadde/)
-- 🌐 [Portfolio](https://anuja-portfolio.onrender.com/)
-- 🔮 [PlayPicks AI](https://tradedna.vercel.app)
-- 🎓 [Google Skills Profile](https://www.skills.google/public_profiles/29170926-f384-498e-a7c1-1ffbb36cd935)
-- 📨 anujagadde18@gmail.com
-
----
-
-💬 *"In God we trust. All others must bring data." — W. Edwards Deming*
+🌐 anujagadde.framer.website
+💼 linkedin.com/in/anuja-gadde
