@@ -22,5 +22,6 @@ Weekly on Medium. AI, building in public, and whatever is actually on my mind.
 
 ## Find me
 
-🌐 anujagadde.framer.website
-💼 linkedin.com/in/anuja-gadde
+[Portfolio](https://anujagadde.framer.website) 
+[LinkedIn](https://linkedin.com/in/anuja-gadde) 
+[Medium](https://medium.com/@anujagadde18)
