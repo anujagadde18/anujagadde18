@@ -1,27 +1,22 @@
-# Hi, I'm Anuja 
+# Hi, I'm Anuja
 
 Head of Product by day. AI builder by night. Based in Frisco, Texas.
 
 I build things at the intersection of product, data, and AI. Currently deep in prediction markets, RAG architecture, and agentic AI.
 
-
 ## What I'm building
 
 **Call It** - prediction markets translated into plain English. The AI never picks the number. Real data always comes first.
-→ tradedna.vercel.app
+[tradedna.vercel.app](https://tradedna.vercel.app)
 
 **RAG projects** - building one AI project per month and putting everything on GitHub.
-→ github.com/anujagadde18/rag-projects
-
+[github.com/anujagadde18/rag-projects](https://github.com/anujagadde18/rag-projects)
 
 ## Writing
 
 Weekly on Medium. AI, building in public, and whatever is actually on my mind.
-→ medium.com/@anujagadde18
-
+[medium.com/@anujagadde18](https://medium.com/@anujagadde18)
 
 ## Find me
 
-[Portfolio](https://anujagadde.framer.website) 
-[LinkedIn](https://linkedin.com/in/anuja-gadde) 
-[Medium](https://medium.com/@anujagadde18)
+[Portfolio](https://anujagadde.framer.website) · [LinkedIn](https://linkedin.com/in/anuja-gadde) · [Medium](https://medium.com/@anujagadde18)
