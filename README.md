@@ -1,31 +1,29 @@
-# Hi, I'm Anuja Gadde 👋
+# Hi, I'm Anuja 👋
 
-Head of Product by day. AI Builder by night.
+Head of Product by day. AI builder by night. Based in Frisco, Texas.
 
-I build things at the intersection of product, data, and AI.
+I build things at the intersection of product, data, and AI. Currently deep in prediction markets, RAG architecture, and agentic AI.
 
-## What I'm Building
+---
 
-**Call It** — A prediction market tool that translates crowd intelligence into plain English. The AI never picks the number. Real data always comes first.
-🔗 tradedna.vercel.app
+## What I'm building
 
-## What I'm Learning
+**Call It** — prediction markets translated into plain English. The AI never picks the number. Real data always comes first.
+→ tradedna.vercel.app
 
-Currently going deep on RAG architecture, agentic AI patterns, MCP, and ML systems design. Building one project per month and writing about everything.
+**RAG projects** — building one AI project per month and putting everything on GitHub.
+→ github.com/anujagadde18/rag-projects
 
-## Recent Projects
-
-| Project | What it does |
-|---------|-------------|
-| Call It RAG Agent | Conversational agent over prediction data using Pinecone and Groq |
-| Call It | Prediction markets in plain English with honest AI |
+---
 
 ## Writing
 
-I publish weekly on Medium about AI, building in public, and whatever is actually on my mind.
-📝 medium.com/@anujagadde18
+Weekly on Medium. AI, building in public, and whatever is actually on my mind.
+→ medium.com/@anujagadde18
 
-## Connect
+---
+
+## Find me
 
 🌐 anujagadde.framer.website
 💼 linkedin.com/in/anuja-gadde
